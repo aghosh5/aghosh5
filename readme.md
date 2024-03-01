@@ -106,15 +106,16 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
 	<a href="mailto:arundhatighosh05@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/aghosh5"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/arundhati-ghosh05/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+ 	<a href="https://www.kaggle.com/aghosh05"><img src="https://icons8.com/icon/s1rM4KTx2Huf/kaggle" alt="Kaggle"/></a>
+
 
 	
 	
 </p>
 
 <hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
 <!--
+* Credit: [Candida18](https://github.com/Candida18)
 * Last Edited on: 20/07/2021
 -->
 
