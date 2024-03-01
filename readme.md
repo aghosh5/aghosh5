@@ -106,7 +106,7 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
 	<a href="mailto:arundhatighosh05@gmail.com"><img src="https://img.icons8.com/color/50/gmail-new.png" alt="Gmail"/></a>
 <!-- 	<a href="https://github.com/aghosh5"><img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"/></a> -->
 	<a href="https://www.linkedin.com/in/arundhati-ghosh05/"><img src="https://img.icons8.com/color/50/linkedin.png" alt="LinkedIn"/></a>
- 	<a href="https://www.kaggle.com/aghosh05"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="Kaggle"/></a>
+ 	<a href="https://www.kaggle.com/aghosh05"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="Kaggle"/></a>
 
 
 	
