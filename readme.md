@@ -39,11 +39,15 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
  
 </p>
 
-### 👉 Frontend Development
+### 👉 Tech Stacks
 <p align="left"> 
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank">
     <img alt="tf" src="https://img.shields.io/badge/TensorFlow-white?logo=tensorflow">
+  </a>
+  &emsp;
+<a href="https://keras.io/" target="_blank">
+    <img alt="tf" src="https://img.shields.io/badge/Keras-red?logo=keras">
   </a>
   &emsp;
 <!--
