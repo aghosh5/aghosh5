@@ -16,6 +16,12 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
 
 ## 🛠️ My Skills
 
+### 👉 Works On
+- Data Visualization
+- Machine Learning models, Neural networks and Deep leaning
+- Natural Language Processing
+- End-to-End Model Deployment
+
 ### 👉 Programming languages
 
 <p align="left"> 
@@ -48,6 +54,10 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
   &emsp;
 <a href="https://keras.io/" target="_blank">
     <img alt="tf" src="https://img.shields.io/badge/Keras-red?logo=keras">
+  </a>
+  &emsp;
+<a href="https://www.nltk.org/" target="_blank">
+    <img alt="tf" src="https://img.shields.io/badge/NLTK-blue?logo=Natural%20Language%20Toolkit">
   </a>
   &emsp;
 <!--
@@ -100,12 +110,15 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
   </a>
  </p>
 -->
-<!--
+
  ### 👉 Software & Tools 
 <p>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
+  <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-black?logo=Anaconda"></a>
+  &emsp;
+<!--
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
