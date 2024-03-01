@@ -34,21 +34,19 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
-    <a href="https://www.tensorflow.org/" target="_blank">
-    <img alt="tf" src="https://img.shields.io/badge/TensorFlow-white?logo=tensorflow">
-  </a>
-  &emsp;
+    
 
  
 </p>
-<!-- 
+
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="tf" src="https://img.shields.io/badge/TensorFlow-white?logo=tensorflow">
+  </a>
   &emsp;
+<!--
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
