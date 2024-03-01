@@ -4,11 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am an undergraduate student pursuing my BTech in Computer Science and Engineering and am currently in my final year. 
-I have a keen interest in programming and solving real life problems using Computer Science techniques. Machine Learning is a field that I am particularly passionate about. I love building Machine Learning and AI models to discover the present possibilities and predict the future.
+<h4 align="center">I am a final year undergraduate student pursuing my B.Tech in Computer Science and Engineering. 
+I have a keen interest in solving real life problems through programming. Machine Learning is a field that I am particularly passionate about. I love building Machine Learning and AI models to discover the present possibilities and predict the future.
 I am an ardent learner. I love networking and cooperating with peers to learn, develop and grow.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aghosh5&label=Profile%20views&color=0e75b6&style=plastic" alt="aghosh5" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aghosh5&theme=algolia" alt="aghosh5"  /></p>
