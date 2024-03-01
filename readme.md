@@ -69,6 +69,8 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
   &emsp;
   <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-black?logo=Anaconda"></a>
   &emsp;
+   <a href="#"><img alt="jupyter" src="https://img.shields.io/badge/jupyter-black?logo=jupyter"></a>
+  &emsp;
 
 <br/>
 
