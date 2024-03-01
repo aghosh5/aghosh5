@@ -103,9 +103,9 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:arundhatighosh05@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/aghosh5"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/arundhati-ghosh05/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:arundhatighosh05@gmail.com"><img src="https://img.icons8.com/color/50/gmail-new.png" alt="Gmail"/></a>
+	<a href="https://github.com/aghosh5"><img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/arundhati-ghosh05/"><img src="https://img.icons8.com/color/50/linkedin.png" alt="LinkedIn"/></a>
  	<a href="https://www.kaggle.com/aghosh05"><img src="https://img.icons8.com/bubbles/50/kaggle.png" alt="Kaggle"/></a>
 
 
