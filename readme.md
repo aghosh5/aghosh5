@@ -27,7 +27,7 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/%20-blue?logo=C">
   </a> 
   &emsp;
   
