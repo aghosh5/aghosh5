@@ -21,6 +21,8 @@ I am an ardent learner. I love networking and cooperating with peers to learn, d
 - Machine Learning models, Neural networks and Deep leaning
 - Natural Language Processing
 - End-to-End Model Deployment
+- LLM
+- MLOps
 
 ### 👉 Programming languages
 
